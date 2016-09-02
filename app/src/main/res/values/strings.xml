@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="button_implicit">Button implicit</string>
+    <string name="button_explicit">Button explicit</string>
+    <string name="click_count">Click count</string>
+    <string name="button_middle">Button Middle</string>
+    <string name="button_bottom">Button Bottom</string>
+    <string name="button_top">Button Top</string>
+    <string name="text_view_result">Result</string>
+</resources>
